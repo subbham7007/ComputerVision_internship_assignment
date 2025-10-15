@@ -1,0 +1,15 @@
+Class indices (alphabetical order):
+{
+    'auto-rickshaw': 0,
+    'bicycle': 1, 
+    'bus': 2,
+    'car': 3,
+    'e-rickshaw': 4,
+    'mini-bus': 5,
+    'mini-truck': 6, 
+    'motorcycle': 7,
+    'rickshaw': 8, 
+    'tractor': 9,
+    'truck': 10, 
+    'van': 11
+    }
